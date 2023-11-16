@@ -1,0 +1,10 @@
+API : http://127.0.0.1:8000/API
+
+users crud : http://127.0.0.1:8000/API/users
+             http://127.0.0.1:8000/API/user/id
+             http://127.0.0.1:8000/API/addUsers
+             http://127.0.0.1:8000/API/updateUser/id
+             http://127.0.0.1:8000/API/deleteUser/id
+
+
+
